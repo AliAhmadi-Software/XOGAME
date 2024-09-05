@@ -1,0 +1,9 @@
+D:\XOGAME\XOGAME\bin\Debug\XOGAME.exe
+D:\XOGAME\XOGAME\bin\Debug\XOGAME.pdb
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.csprojResolveAssemblyReference.cache
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.Form1.resources
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.Properties.Resources.resources
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.TowPlayer.resources
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.csproj.GenerateResource.Cache
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.exe
+D:\XOGAME\XOGAME\obj\Debug\XOGAME.pdb
